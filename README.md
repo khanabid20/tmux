@@ -1,4 +1,4 @@
-### Instalation
+### Installation
 `sudo apt-get install tmux`
 
 ### Configuration
